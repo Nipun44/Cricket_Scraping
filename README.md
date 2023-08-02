@@ -11,3 +11,5 @@ This is a Python script to scrape cricket playing batsman data from ESPNcricinfo
 - pandas
 - requests
 - BeautifulSoup
+
+The cricket data used in this project is sourced from ESPNcricinfo.
